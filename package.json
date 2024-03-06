@@ -1,0 +1,19 @@
+{
+  "name": "node_web_crawler_project",
+  "version": "1.0.0",
+  "description": "Web crawler project in javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "Abishek Ramdas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "node-fetch": "^2.7.0"
+  }
+}
